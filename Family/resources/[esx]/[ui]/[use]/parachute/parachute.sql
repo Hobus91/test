@@ -1,1 +1,0 @@
-INSERT INTO `weashops`( `id`, `name`, `item`, `price`) VALUES ("26","GunShop","GADGET_PARACHUTE","500");
